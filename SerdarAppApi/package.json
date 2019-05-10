@@ -1,0 +1,19 @@
+{
+  "name": "serdarappapi",
+  "version": "1.0.0",
+  "description": "node api for serdar mobile app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "11.12.0"
+  },
+  "author": "oussama",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^3.2.3"
+  }
+}
